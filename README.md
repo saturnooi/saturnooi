@@ -15,4 +15,7 @@ Hi My name is Nuttawat Janwisit. I’m a junior at King Mongkut's Institute of T
 <p>
 <p> Stats
 <p> <img src="https://github-readme-stats.vercel.app/api?username=saturnooi&show_icons=true&theme=gotham"  />
-
+ <p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saturnooi&show_icons=true&theme=gotham" />
+</a>
