@@ -1,6 +1,6 @@
 ## Welcome everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
-Hi My name is Nuttawat Janwisit. I’m a junior at King Mongkut's Institute of Technology Ladkrabang university.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I want to be a Full Stack web developer <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I want to be a Full Stack web developer <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **Languages and Tools:**  
 <p><p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
